@@ -7,4 +7,6 @@
 ***
 * **Born2beroot** - Finished. _Mark - 125_
 * **ft_printf** - Finished. _Mark - 100_
-* **get_next_line** - Ongoing. _Mark - loading..._
+* **get_next_line** - Finished. _Mark - 125_
+***
+* **push_swap** - Ongoing. _Mark - loading..._
