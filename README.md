@@ -9,4 +9,8 @@
 * **ft_printf** - Finished. _Mark - 100_
 * **get_next_line** - Finished. _Mark - 125_
 ***
+* **fract-ol** - Finished. _Mark - 125_
+* **minitalk** - Finished. _Mark - 125_
 * **push_swap** - Ongoing. _Mark - loading..._
+***
+* **miniShell** - Ongoing. _Mark - loading..._
