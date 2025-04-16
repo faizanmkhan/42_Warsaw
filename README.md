@@ -11,6 +11,6 @@
 ***
 * **fract-ol** - Finished. _Mark - 125_
 * **minitalk** - Finished. _Mark - 125_
-* **push_swap** - Ongoing. _Mark - loading..._
+* **push_swap** - Finished. _Mark - 104_
 ***
 * **miniShell** - Ongoing. _Mark - loading..._
