@@ -13,4 +13,10 @@
 * **minitalk** - Finished. _Mark - 125_
 * **push_swap** - Finished. _Mark - 104_
 ***
-* **miniShell** - Ongoing. _Mark - loading..._
+* **miniShell** - Finished. _Mark - 100_
+* **Philosopher** - Finished. _Mark - 100_
+***
+* **NetPractice** - Finished. _Mark - 100_
+* **Cub3D** - Finished. _Mark - 103_
+* **CPP** - Ongoing. _Mark - loading..._
+
