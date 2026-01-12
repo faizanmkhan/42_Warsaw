@@ -83,11 +83,12 @@ The lexer:
 - Prevents token splitting inside quoted strings
 - Identifies operators even without surrounding spaces
 
+## 🏁 Conclusion
+
+**Minishell** is a foundational systems project that mirrors real-world shell behavior while enforcing strict constraints.
+It bridges the gap between theoretical OS concepts and practical Unix programming.
+
+It bridges the gap between **parsing**, **executing**, and **systems programming**.
 Example:
 ```bash
 echo "hello world" | grep hello > out.txt
-
-🏁 Conclusion
-
-Minishell is a foundational systems project that mirrors real-world shell behavior while enforcing strict constraints.
-It bridges the gap between theoretical OS concepts and practical Unix programming.
