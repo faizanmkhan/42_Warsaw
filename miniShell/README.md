@@ -86,3 +86,8 @@ The lexer:
 Example:
 ```bash
 echo "hello world" | grep hello > out.txt
+
+🏁 Conclusion
+
+Minishell is a foundational systems project that mirrors real-world shell behavior while enforcing strict constraints.
+It bridges the gap between theoretical OS concepts and practical Unix programming.
