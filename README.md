@@ -1,5 +1,5 @@
 
-# Welcome to the 42_Warsaw
+# Welcome to the repo 42_Warsaw
 **Here, you will find the projects I am doing during my study in 42 Warsaw.**
 
 ## Projects
