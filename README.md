@@ -5,20 +5,20 @@
 ## Projects
 * [**Libft**](https://github.com/faizanmkhan/42_Warsaw/tree/master/libft) - Finished. _Mark - 100_
 ***
-* **Born2beroot** - Finished. _Mark - 125_
-* **ft_printf** - Finished. _Mark - 100_
-* **get_next_line** - Finished. _Mark - 125_
+* [**Born2beroot**](https://github.com/faizanmkhan/42_Warsaw/tree/master/born2beroot) - Finished. _Mark - 125_
+* [**ft_printf**](https://github.com/faizanmkhan/42_Warsaw/tree/master/ft_printf) - Finished. _Mark - 100_
+* [**get_next_line**](https://github.com/faizanmkhan/42_Warsaw/tree/master/get_next_line) - Finished. _Mark - 125_
 ***
-* **fract-ol** - Finished. _Mark - 125_
-* **minitalk** - Finished. _Mark - 125_
-* **push_swap** - Finished. _Mark - 104_
+* [**fract-ol**](https://github.com/faizanmkhan/42_Warsaw/tree/master/fract-ol) - Finished. _Mark - 125_
+* [**minitalk**](https://github.com/faizanmkhan/42_Warsaw/tree/master/minitalk) - Finished. _Mark - 125_
+* [**push_swap**](https://github.com/faizanmkhan/42_Warsaw/tree/master/push_swap) - Finished. _Mark - 104_
 ***
-* **miniShell** - Finished. _Mark - 100_
+* [**miniShell**](https://github.com/faizanmkhan/42_Warsaw/tree/master/miniShell) - Finished. _Mark - 100_
 * **Philosopher** - Finished. _Mark - 100_
 ***
-* **NetPractice** - Finished. _Mark - 100_
-* **Cub3D** - Finished. _Mark - 103_
-* **CPP** - Ongoing... 
+* [**NetPractice**](https://github.com/faizanmkhan/42_Warsaw/tree/master/netPractice) - Finished. _Mark - 100_
+* [**Cub3D**](https://github.com/faizanmkhan/42_Warsaw/tree/master/cub3D) - Finished. _Mark - 103_
+* [**CPP**](https://github.com/faizanmkhan/42_Warsaw/tree/master/CPP) - Ongoing... 
     
     ├── CPP00 - _Mark - 80_
 
@@ -33,5 +33,5 @@
     ├── CPP05 - Ongoing...  
   
 ***
-* **Inception** - Ongoing... 
-* **Webserv** - Upcoming.
+* [**Inception**](https://github.com/faizanmkhan/42_Warsaw/tree/master/inception) - Ongoing...
+* [**Webserv**](https://github.com/monandszy/42-webserv) - Work In Progress.
