@@ -3,7 +3,7 @@
 **Here, you will find the projects I am doing during my study in 42 Warsaw.**
 
 ## Projects
-* **Libft** - Finished. _Mark - 100_
+* [**Libft**](https://github.com/faizanmkhan/42_Warsaw/tree/master/libft) - Finished. _Mark - 100_
 ***
 * **Born2beroot** - Finished. _Mark - 125_
 * **ft_printf** - Finished. _Mark - 100_
