@@ -14,7 +14,7 @@
 * [**push_swap**](https://github.com/faizanmkhan/42_Warsaw/tree/master/push_swap) - Finished. _Mark - 104_
 ***
 * [**miniShell**](https://github.com/faizanmkhan/42_Warsaw/tree/master/miniShell) - Finished. _Mark - 100_
-* **Philosopher** - Finished. _Mark - 100_
+* [**Philosopher**](https://github.com/faizanmkhan/42_Warsaw/tree/master/Philosopher) - Finished. _Mark - 100_
 ***
 * [**NetPractice**](https://github.com/faizanmkhan/42_Warsaw/tree/master/netPractice) - Finished. _Mark - 100_
 * [**Cub3D**](https://github.com/faizanmkhan/42_Warsaw/tree/master/cub3D) - Finished. _Mark - 103_
