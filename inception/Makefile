@@ -6,11 +6,11 @@
 #    By: faikhan <faikhan@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/06/27 22:08:17 by faikhan           #+#    #+#              #
-#    Updated: 2026/06/27 22:15:40 by faikhan          ###   ########.fr        #
+#    Updated: 2026/06/29 14:02:24 by faikhan          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-SRCS_DIR    := srcs
+SRCS_DIR    := <your actual compose dir>
 COMPOSE     := $(SRCS_DIR)/docker-compose.yml
 ENV_FILE    := $(SRCS_DIR)/.env
 COMPOSE_CMD := docker compose -f $(COMPOSE) --env-file $(ENV_FILE)

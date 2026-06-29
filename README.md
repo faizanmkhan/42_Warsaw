@@ -30,8 +30,10 @@
     
     ├── CPP04 - _Mark - 80_
 
-    ├── CPP05 - Ongoing...  
+    ├── CPP05 - Finished. _Mark - Loading..._  
+    
+    ├── CPP06 - Ongoing...  
   
 ***
-* [**Inception**](https://github.com/faizanmkhan/42_Warsaw/tree/master/inception) - Ongoing...
-* [**Webserv**](https://github.com/monandszy/42-webserv) - Work In Progress.
+* [**Inception**](https://github.com/faizanmkhan/42_Warsaw/tree/master/inception) - Finished. _Mark - 125_
+* [**Webserv**](https://github.com/monandszy/42-webserv) - On hold.

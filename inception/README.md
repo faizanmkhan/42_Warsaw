@@ -88,7 +88,7 @@ never `network: host`, never `--link`.
 ### 1. Configure
 
 ```bash
-git clone <this-repo> inception && cd inception
+git clone <repo> inception && cd inception
 ```
 
 Edit **`srcs/.env`** and replace the placeholder `login` on the very
@@ -110,20 +110,20 @@ secrets/grafana_admin_password.txt
 Make your domain resolve locally:
 
 ```bash
-#add "127.0.0.1  faikhan.42.fr" to /etc/hosts
+#add "127.0.0.1  <login>.42.fr" to /etc/hosts
 ```
 
 ### 2. Build & run
 
 ```bash
-make  # creates /home/faikhan/data/*, builds, and starts everything
+make  # creates /home/<login>/data/*, builds, and starts everything
 ```
 
 ### 3. Visit it
 
 | What | URL |
 |---|---|
-| WordPress site | `https://faikhan.42.fr` (self-signed cert — your browser will warn, that's expected) |
+| WordPress site | `https://faikhan.42.fr` (self-signed cert — browser will give warning) |
 | WordPress admin | `https://faikhan.42.fr/wp-admin` |
 | Adminer (bonus) | `http://localhost:8082` |
 | Static site (bonus) | `http://localhost:8081` |
